@@ -1,5 +1,5 @@
-this repository contains some more ore less useful google wave bots. youse them as long as google wave is still alive!
-all of these bots are hosted on appengine and can be used. their nick is BOTNAME@appengine.com
+this repository contains some more ore less useful google wave bots. use them as long as google wave is still alive!
+all of these bots are hosted on appengine and can be used. their nick is BOTNAME@appspot.com
 
 PyLurinator
 a "Lurinator" that just works!
