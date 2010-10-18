@@ -1,0 +1,11 @@
+this repository contains some more ore less useful google wave bots. youse them as long as google wave is still alive!
+all of these bots are hosted on appengine and can be used. their nick is BOTNAME@appengine.com
+
+PyLurinator
+a "Lurinator" that just works!
+
+BlipCleaner
+helps you clean your wave. this bot can delete a huge list of blips out of your current wave to keep it clean.
+
+LICENCE
+Apache 2.0
